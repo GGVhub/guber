@@ -1,10 +1,6 @@
-# Core dependencies
 streamlit==1.31.0
 pandas==2.2.3
 openpyxl==3.1.2
-
-# Additional Excel support
 xlrd==2.0.1
+Pillow==10.4.0  # ← Cambio clave
 
-# Utilities
-Pillow==10.2.0
