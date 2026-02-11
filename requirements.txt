@@ -1,6 +1,6 @@
 # Core dependencies
 streamlit==1.31.0
-pandas==2.2.0
+pandas==2.2.3
 openpyxl==3.1.2
 
 # Additional Excel support
